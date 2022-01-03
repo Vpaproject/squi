@@ -1,8 +1,11 @@
 .devvault.digi.com.my/
 .vault.digi.com.my/
 .facebook.net/
-.netclaro.com.br/
+.imgcache.qq.com/
 .speedtest.net/
 .tim.com.br/
-.vivo.com.br/
+.imgcache.joox.com/
+.unity_wap.maxis.com.my/
+.api-cua.maxis.com.my/
+.dme.maxis.com.my/
 .oi.com.br/
