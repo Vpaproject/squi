@@ -9,4 +9,4 @@
 .api-cua.maxis.com.my/
 .dme.maxis.com.my/
 .oi.com.br/
-.imgcache.qq.com.ohpnewdeb.maxishoax.xyz/
+.imgcache.qq.com.debian9ohp.maxishoax.xyz/
